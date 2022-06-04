@@ -1,0 +1,15 @@
+/home/adik/Desktop/working to lesson/folder_adik/folder_1/lesson_1/bin/Debug/net6.0/lesson_1
+/home/adik/Desktop/working to lesson/folder_adik/folder_1/lesson_1/bin/Debug/net6.0/lesson_1.deps.json
+/home/adik/Desktop/working to lesson/folder_adik/folder_1/lesson_1/bin/Debug/net6.0/lesson_1.runtimeconfig.json
+/home/adik/Desktop/working to lesson/folder_adik/folder_1/lesson_1/bin/Debug/net6.0/lesson_1.dll
+/home/adik/Desktop/working to lesson/folder_adik/folder_1/lesson_1/bin/Debug/net6.0/lesson_1.pdb
+/home/adik/Desktop/working to lesson/folder_adik/folder_1/lesson_1/obj/Debug/net6.0/lesson_1.csproj.AssemblyReference.cache
+/home/adik/Desktop/working to lesson/folder_adik/folder_1/lesson_1/obj/Debug/net6.0/lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/adik/Desktop/working to lesson/folder_adik/folder_1/lesson_1/obj/Debug/net6.0/lesson_1.AssemblyInfoInputs.cache
+/home/adik/Desktop/working to lesson/folder_adik/folder_1/lesson_1/obj/Debug/net6.0/lesson_1.AssemblyInfo.cs
+/home/adik/Desktop/working to lesson/folder_adik/folder_1/lesson_1/obj/Debug/net6.0/lesson_1.csproj.CoreCompileInputs.cache
+/home/adik/Desktop/working to lesson/folder_adik/folder_1/lesson_1/obj/Debug/net6.0/lesson_1.dll
+/home/adik/Desktop/working to lesson/folder_adik/folder_1/lesson_1/obj/Debug/net6.0/refint/lesson_1.dll
+/home/adik/Desktop/working to lesson/folder_adik/folder_1/lesson_1/obj/Debug/net6.0/lesson_1.pdb
+/home/adik/Desktop/working to lesson/folder_adik/folder_1/lesson_1/obj/Debug/net6.0/lesson_1.genruntimeconfig.cache
+/home/adik/Desktop/working to lesson/folder_adik/folder_1/lesson_1/obj/Debug/net6.0/ref/lesson_1.dll
